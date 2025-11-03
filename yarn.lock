@@ -11583,7 +11583,7 @@ loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
 
 lottie-web@Orchestral-Tools/lottie-web:
   version "5.13.0"
-  resolved "https://codeload.github.com/Orchestral-Tools/lottie-web/tar.gz/7cf26009d2d3513c0598e3fc3b9672598c6e4e8a"
+  resolved "https://codeload.github.com/Orchestral-Tools/lottie-web/tar.gz/7b797f3b573a89c068dd558c6a205fc28ae3cc3b"
 
 lower-case-first@^1.0.0:
   version "1.0.2"
