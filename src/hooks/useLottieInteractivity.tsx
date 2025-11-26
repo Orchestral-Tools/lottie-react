@@ -1,4 +1,4 @@
-import { AnimationSegment } from "lottie-web";
+import { AnimationSegment } from "@cb_ot/lottie-web";
 import React, { useEffect, ReactElement } from "react";
 import { InteractivityProps } from "../types";
 

@@ -1,5 +1,5 @@
 {
-  "name": "lottie-react",
+  "name": "@cb_ot/lottie-react",
   "version": "2.4.1",
   "description": "Lottie for React",
   "keywords": [
@@ -12,13 +12,13 @@
     "component",
     "hook"
   ],
-  "homepage": "https://lottiereact.com",
-  "bugs": {
-    "url": "https://github.com/Gamote/lottie-react/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gamote/lottie-react.git"
+    "url": "https://github.com/Orchestral-Tools/lottie-react.git"
+  },
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
   },
   "license": "MIT",
   "author": "David Gamote",
@@ -48,7 +48,7 @@
     "tsc:compile:watch": "tsc --watch"
   },
   "dependencies": {
-    "lottie-web": "Orchestral-Tools/lottie-web"
+    "@cb_ot/lottie-web": "5.13.0"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",

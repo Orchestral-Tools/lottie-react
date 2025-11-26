@@ -1155,6 +1155,11 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@cb_ot/lottie-web@5.13.0":
+  version "5.13.0"
+  resolved "https://registry.yarnpkg.com/@cb_ot/lottie-web/-/lottie-web-5.13.0.tgz#0cb98fd65f62eb57e167486abe40e8bba1bdfe9c"
+  integrity sha512-uRW2DxKc7p/JwYvkcSVLQVKJ/grOoznGPebgA4YWzP68AhW7uzXqZX3Fyv/LzIRdA3NSuXEc8fZ6G9aCYfOT4A==
+
 "@cspotcode/source-map-support@^0.8.0":
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/@cspotcode/source-map-support/-/source-map-support-0.8.1.tgz#00629c35a688e05a88b1cda684fb9d5e73f000a1"
@@ -11580,10 +11585,6 @@ loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
   integrity sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
-
-lottie-web@Orchestral-Tools/lottie-web:
-  version "5.13.0"
-  resolved "https://codeload.github.com/Orchestral-Tools/lottie-web/tar.gz/7b797f3b573a89c068dd558c6a205fc28ae3cc3b"
 
 lower-case-first@^1.0.0:
   version "1.0.2"

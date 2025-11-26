@@ -7,7 +7,7 @@ import {
   AnimationItem,
   AnimationSegment,
   RendererType,
-} from "lottie-web";
+} from "@cb_ot/lottie-web";
 import React, { MutableRefObject, ReactElement, RefObject } from "react";
 
 export type LottieRefCurrentProps = {

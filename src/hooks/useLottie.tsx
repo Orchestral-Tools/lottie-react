@@ -4,7 +4,7 @@ import lottie, {
   AnimationDirection,
   AnimationSegment,
   RendererType,
-} from "lottie-web";
+} from "@cb_ot/lottie-web";
 import React, {
   CSSProperties,
   useEffect,
